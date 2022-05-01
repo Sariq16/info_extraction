@@ -1,0 +1,18 @@
+4567 Main St Buffalo
+Ny 90852 INVOICE
+http://www.contoso.com/
+555-0123 1785439
+Date: Jan 15, 2018
+Bill To:
+Fabrikam, Inc. Due Date: Jan 31, 2018
+345 North St .
+NY 98052 Balance due: $66.63
+http://www.fabrikam.com/
+555-0145
+[tem tty Rate [Art]
+Monthly service fee $40.00 $40.00
+Guarantee monthly fee $6.00 $6.00
+Subtotal: $54.55
+Tax (2%): $1.09
+Shipping: $5.99
+Total: $61.63
